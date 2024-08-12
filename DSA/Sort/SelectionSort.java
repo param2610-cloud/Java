@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 public class SelectionSort {
     public static int smallest(int[] array, int k){
         int smallest = array[k];
