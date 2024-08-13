@@ -1,4 +1,4 @@
-package DSA;
+import DSA.*;
 
 public class recursion {
     public static int printPower(int x, int n) {
